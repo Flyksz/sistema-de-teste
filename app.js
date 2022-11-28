@@ -1,1 +1,1 @@
-console.log("rodando sistema de gerenciamento de teste")
+console.log("rodando sistema de gerenciamento de teste!")
